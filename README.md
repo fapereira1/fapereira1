@@ -1,4 +1,13 @@
-#  Fábio Pereira
+#  Fabio Pereira
+
+Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, currently I'm a **Principal Architect** at CI&T.
+
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍  I'm currently a Principal Architect at CI&T.
+- :love_letter:  I'm currently learning OpenShift and GRPC
+- My interests are with **Data Architecture**, **Scalabale Systems**, **Event Driven Architectures** and **SRE practices**.
+- :speech_balloon:Ask me about anything, I'm happy to help.
 
 ### How to reach me:
 
