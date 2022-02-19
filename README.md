@@ -1,6 +1,6 @@
 #  Fabio Pereira
 
-Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, currently I'm a **Principal Architect** at CI&T.
+Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, currently I'm a **Platform Technical Leader** at Mercado Livre.
 
 **Talking about Personal Stuffs:**
 
