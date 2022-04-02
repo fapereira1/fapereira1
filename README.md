@@ -4,8 +4,8 @@ Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍  I'm currently a Principal Architect at CI&T.
-- :love_letter:  I'm currently learning OpenShift and GRPC
+- 👨🏽‍  I'm currently a **Platform Technical Leader** at Mercado Livre.
+- :love_letter:  I'm currently learning Golang and GRPC
 - My interests are with **Data Architecture**, **Scalable Systems**, **Event Driven Architectures** and **SRE practices**.
 - :speech_balloon:Ask me about anything, I'm happy to help.
 
@@ -14,17 +14,11 @@ Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fapereira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fapereira1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!--   <div>Backend
-   <div style="display: inline_block"><br>
-     <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-     <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-     <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-     <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-     </div>
-   </div> -->
+
+### ⚡ Skills:
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) 
+  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FFFFFF?style=flat-square&logo=AWS&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white) ![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe) ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 
 
 ### How to reach me:
