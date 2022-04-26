@@ -1,11 +1,11 @@
 #  Fabio Pereira
 
-Hi there, I'm **Fabio Pereira**, a **Software Engenieer** from Brazil :brazil:, currently I'm a **Platform Technical Leader** at Mercado Livre.
+Hi there, I'm **Fabio Pereira**, a **Software Engineer** from Brazil :brazil:, currently I'm a **Platform Technical Leader** at Mercado Livre.
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍  I'm currently a **Platform Technical Leader** at Mercado Livre.
-- :love_letter:  I'm currently learning Golang and GRPC
+- :love_letter:  I'm currently learning Golang, Rust and GRPC
 - My interests are with **Data Architecture**, **Scalable Systems**, **Event Driven Architectures** and **SRE practices**.
 - :speech_balloon:Ask me about anything, I'm happy to help.
 
