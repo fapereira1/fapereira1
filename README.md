@@ -1,28 +1,54 @@
-#  Fabio Pereira
+<h1 align="center">Hi, I'm Fábio Augusto Pereira 👋</h1>
 
-Hi there, I'm **Fabio Pereira**, a **Software Engineer** from Brazil :brazil:, currently I'm a **Foundation team** at Trinio.
+<p align="center">
+  <strong>Staff Software Engineer | Solutions Architect | Tech Leader | Cloud & AI Enthusiast</strong>
+</p>
 
-**Talking about Personal Stuffs:**
+---
 
-- 👨🏽‍  I'm currently I'm a **Foundation team** at Trinio.
-- :love_letter:  I'm currently learning Golang, Rust and GRPC
-- My interests are with **Data Architecture**, **Scalable Systems**, **Event Driven Architectures** and **SRE practices**.
-- :speech_balloon:Ask me about anything, I'm happy to help.
+### 🧠 About Me
 
- <div>
-  <a href="https://github.com/fapereira1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fapereira1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fapereira1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+I'm a software architect and technical leader with 15+ years of experience designing scalable and resilient systems that deliver real business impact. I've worked in companies like Mercado Livre, CI&T, Movile, and currently at Trinio, leading high-performance digital product initiatives.
 
-### ⚡ Skills:
+My passion lies in transforming complexity into simplicity through clean architecture, modern engineering practices, and strong technical leadership. I'm also expanding my expertise in AI through a current MBA in Data Science & Analytics at USP/Esalq.
 
-- ![Python](https://img.shields.io/badge/-Python-3776AB?&logo=Python&logoColor=FFFFFF) 
-  ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java) ![Cobol](https://img.shields.io/badge/-Cobol-darkblue?style=flat-square&logo=Cobol) ![Git](https://img.shields.io/badge/-Git-F05032?&logo=git&logoColor=FFFFFF) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-FFFFFF?style=flat-square&logo=AWS&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?&logo=Django&logoColor=FFFFFF)  ![Flask](https://img.shields.io/badge/-Flask-181717?&logo=Flask&logoColor=FFFFFF) ![AWS](https://img.shields.io/badge/-AWS-E34F26?style=flat-square&logo=AWS&logoColor=white) ![Automation_Anywhere](https://img.shields.io/badge/-Automation_Anywhere-E34F26?style=flat-square&logo=Automation_Anywhere&logoColor=white) ![Alteryx](https://img.shields.io/badge/-Alteryx-1572B6?style=flat-square&logo=Alteryx) ![Mainframe](https://img.shields.io/badge/-Mainframe-black?style=flat-square&logo=Mainframe) ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+---
 
+### 🛠️ Core Skills
 
-### How to reach me:
+- 🔭 **Technical Leadership & Team Mentoring**
+- 🏗️ **Scalable System Design & Architecture**
+- ☁️ **Cloud & DevOps (AWS, GCP, Terraform)**
+- 🧩 **Digital Product Engineering (Fintech & E-commerce)**
+- 🧠 **Applied AI & Data Engineering (in progress)**
 
-[![Email badge](https://img.shields.io/badge/email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fapereira1@gmail.com?subject=Hi)
-[![LinkedIn Badge](https://img.shields.io/badge/linkedin-blue?logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-pereira/)
-[![Twitter badge](https://img.shields.io/badge/twitter-black?logo=twitter&style=for-the-badge&logoColor=white)](https://twitter.com/FabioAugustoPe4)
+---
+
+### 💻 Tech Stack
+
+![Golang](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+---
+
+### 🚀 What You'll Find Here
+
+- 📂 Proof of concepts and architecture experiments  
+- 🛠️ Tools and utilities I use or create to optimize developer workflows  
+- 🤖 Practical experiments in AI, automation, and data pipelines
+
+---
+
+### 📬 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-augusto-pereira)
+[![Gmail](https://img.shields.io/badge/Email-fapereira1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fapereira1@gmail.com)
+
+---
+
+<sup>⚡ Always learning. Always building. Always improving.</sup>
